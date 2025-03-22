@@ -1,0 +1,20 @@
+@import './shared/vars.css';
+@import './shared/grids.css';
+@import './shared/base.css';
+@import './shared/main-classes.css';
+@import './shared/header.css';
+@import './shared/footer.css';
+@import './shared/button.css';
+@import './inner/inner-page.css';
+
+@import './items/main-slider.css';
+@import './shared/swiper.css';
+@import './items/section.css';
+
+@import './items/services.css';
+@import './items/brands.css';
+@import './items/contacts.css';
+@import './items/statistics.css';
+@import './items/stores.css';
+
+@import '../Fonts/DinNextLtW23/stylesheet.css';

@@ -1,0 +1,51 @@
+@font-face {
+    font-family: 'DinNextLtW23';
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+    src: url('./DinNextLtW23-Bold/DinNextLtW23-Bold.eot');
+    src: url('./DinNextLtW23-Bold/DinNextLtW23-Bold.eot?#iefix') format('embedded-opentype'),
+    url('./DinNextLtW23-Bold/DinNextLtW23-Bold.woff2') format('woff2'),
+    url('./DinNextLtW23-Bold/DinNextLtW23-Bold.woff') format('woff'),
+    url('./DinNextLtW23-Bold/DinNextLtW23-Bold.ttf') format('truetype'),
+    url('./DinNextLtW23-Bold/DinNextLtW23-Bold.svg#DinNextLtW23-Bold') format('svg');
+}
+
+@font-face {
+    font-family: 'DinNextLtW23';
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    src: url('./DinNextLtW23-Light/DinNextLtW23-Light.eot');
+    src: url('./DinNextLtW23-Light/DinNextLtW23-Light.eot?#iefix') format('embedded-opentype'),
+    url('./DinNextLtW23-Light/DinNextLtW23-Light.woff2') format('woff2'),
+    url('./DinNextLtW23-Light/DinNextLtW23-Light.woff') format('woff'),
+    url('./DinNextLtW23-Light/DinNextLtW23-Light.ttf') format('truetype'),
+    url('./DinNextLtW23-Light/DinNextLtW23-Light.svg#DinNextLtW23-Light') format('svg');
+}
+
+@font-face {
+    font-family: 'DinNextLtW23';
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+    src: url('./DinNextLtW23-Regular/DinNextLtW23-Regular.eot');
+    src: url('./DinNextLtW23-Regular/DinNextLtW23-Regular.eot?#iefix') format('embedded-opentype'),
+    url('./DinNextLtW23-Regular/DinNextLtW23-Regular.woff2') format('woff2'),
+    url('./DinNextLtW23-Regular/DinNextLtW23-Regular.woff') format('woff'),
+    url('./DinNextLtW23-Regular/DinNextLtW23-Regular.ttf') format('truetype'),
+    url('./DinNextLtW23-Regular/DinNextLtW23-Regular.svg#DinNextLtW23-Regular') format('svg');
+}
+
+@font-face {
+    font-family: 'DinNextLtW23';
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+    src: url('./DinNextLtW23-Medium/DinNextLtW23-Medium.eot');
+    src: url('./DinNextLtW23-Medium/DinNextLtW23-Medium.eot?#iefix') format('embedded-opentype'),
+    url('./DinNextLtW23-Medium/DinNextLtW23-Medium.woff2') format('woff2'),
+    url('./DinNextLtW23-Medium/DinNextLtW23-Medium.woff') format('woff'),
+    url('./DinNextLtW23-Medium/DinNextLtW23-Medium.ttf') format('truetype'),
+    url('./DinNextLtW23-Medium/DinNextLtW23-Medium.svg#DinNextLtW23-Medium') format('svg');
+}

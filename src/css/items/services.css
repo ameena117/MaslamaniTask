@@ -1,0 +1,33 @@
+.service {
+    border-radius: var(--border-radius);
+    border: 1px solid var(--primary-color);
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    flex: 1;
+}
+.service:hover{
+    transform: scale(1.05);
+}
+.service-img {
+    padding: 10px;
+    width: 55px;
+    height: 55px;
+    background-color: var(--primary-color);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: var(--border-radius);
+    margin-bottom: 9px;
+}
+.service-title{
+    font-size: 22px;
+    color: var(--secondary-color);
+}
+.service-desc{
+    font-size: 16px;
+    color: var(--secondary-color);
+    margin-top: 11px;
+}

@@ -1,0 +1,37 @@
+.inner-header {
+    background: linear-gradient(rgba(var(--secondary-color-rgb), 0.65), rgba(var(--secondary-color-rgb), 0.65)), url('../images/CashewsTiny\ 1.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    padding-bottom: 70px;
+    position: relative;
+}
+
+.inner-header-title {
+    color: var(--light-color);
+    font-size: 35px;
+}
+
+.inner-header-title::after {
+    content: "";
+    background: var(--primary-color);
+    height: 2px;
+    width: 60px;
+    display: block;
+    margin-top: 3px;
+    margin: auto;
+}
+
+.inner-body {
+    padding: 50px 0;
+}
+
+.inner-body-content{
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+}

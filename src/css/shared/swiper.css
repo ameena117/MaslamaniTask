@@ -1,0 +1,29 @@
+:root {
+    --swiper-navigation-size: 12px;
+}
+
+.swiper-slide {
+    height: auto;
+    display: flex;
+}
+
+.swiper-button-next,
+.swiper-button-prev {
+    position: relative;
+    width: 40px;
+    height: 40px;
+    color: var(--light-color);
+    background-color: var(--primary-color);
+    border-radius: var(--border-radius);
+    left: unset;
+    top: unset;
+    right: unset;
+    margin-top:0;
+}
+
+.swiper-buttons {
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}

@@ -1,0 +1,76 @@
+:root {
+    --primary-color: #87BA02;
+    --secondary-color: #000000;
+    --secondary-color-rgb: 0, 0, 0;
+    --light-color: white;
+    --light-color-rgb: 255, 255, 255;
+    --light-gray-color: #FAFAFA;
+    --gray-color: #666;
+    /* --mid-color: #040A38;
+    --light-color: #FFFFFF;
+    --dark-color: #303030;
+    --blue-color: #0C7FCF;
+    --muted-color: #F8F9FC;
+    
+    --light-blue-color: #DAF0FF; */
+
+    /* --xs-font-size:12px;
+    --sm-font-size:14px;
+    --md-font-size:16px;
+    --lg-font-size:22px;
+    --xl-font-size:32px;
+    --xxl-font-size:36px; */
+
+    --section-gutter: 70px;
+
+    /* --small-font-size: 14px;
+    --big-font-size: 57px; 
+    --mid-font-size: 22px;
+   
+    --desc-font-size: 16px;
+    --title-font-size: 32px;
+    --sub-title-font-size: 36px; */
+
+    /* --box-shadow: 0px 0px 4px 0px rgba(0, 0, 0, 0.15);
+    --box-shadow-hover: 0 10px 25px 0 rgba(0, 0, 0, 0.2); */
+
+    --border-radius-small: 5px;
+    --border-radius: 10px;
+    --border-radius-big: 40px;
+
+    --container-width: 1550px;
+    --gutter-x: 12px;
+    /* --section-gutter: 80px;
+    --swiper-navigation-sides-offset: 20px; */
+    --font: "DinNextLtW23", sans-serif;
+
+}
+
+/* @media screen and (max-width: 1199.98px) {
+    :root {
+        --title-size: 28px;
+        --title-size-small: 22px;
+    }
+}
+
+@media screen and (max-width: 991.98px) {
+    :root {
+        --title-size: 25px;
+        --title-size-small: 20px;
+    }
+}
+
+@media screen and (max-width: 767.98px) {
+    :root {
+        --title-size: 22px;
+        --title-size-small: 18px;
+    }
+}
+
+@media screen and (max-width: 575.98px) {
+    :root {
+        --title-size: 18px;
+        --title-size-small: 18px;
+        --section-gutter: 40px;
+    }
+} */

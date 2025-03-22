@@ -1,0 +1,38 @@
+.brands-swiper {
+  padding: 10px;
+}
+.brand-slide {
+  border-radius: var(--border-radius);
+  border: 1px solid var(--primary-color);
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  width: 100%;
+}
+.brand {
+  background-color: var(--light-gray-color);
+  border-radius: var(--border-radius);
+  border: 1px solid var(--primary-color);
+  padding: 25px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.brand-img img {
+  aspect-ratio: 1 / 0.53;
+  object-fit: contain;
+  flex: 1;
+  position: relative;
+  filter: grayscale(1);
+}
+
+.brand:hover {
+  transform: scale(1.05);
+}
+.brand-slide:hover {
+  transform: scale(1.05);
+}
